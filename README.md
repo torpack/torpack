@@ -16,5 +16,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=torpack&theme=darcula&show_icons=true&locale=en&layout=compact" alt="torpack" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=torpack&label=Profile%20views&color=F0881F&style=flat" alt="torpack" /> </p>
+<p align="center"><img align="center" src="https://lanyard.cnrad.dev/api/330292439040393216"></p>   
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=torpack&label=Profile%20views&color=F0881F&style=flat" alt="torpack" /> 
 
