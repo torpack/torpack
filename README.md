@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torpak</h1>
-<h3 align="center">I am a front-end and back-end developer trying to improve himself.</h3>
+<h3 align="center">I am a back-end and front-end developer trying to improve himself.</h3>
 
 
 
