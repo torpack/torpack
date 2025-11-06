@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torpak</h1>
-<h2 align="center"><a target="_blank href="https://toprakoz.com">toprakoz.com</a></h2>
+<h2 align="center"><a target="_blank" href="https://toprakoz.com">toprakoz.com</a></h2>
 <h3 align="center">I am a back-end and front-end developer trying to improve himself.</h3>
 
 
